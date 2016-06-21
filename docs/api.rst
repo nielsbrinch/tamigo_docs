@@ -12,7 +12,7 @@ The services are all capable of returning xml or json-formatted data. Which resp
 
 **Services URL**
 
-`https://services.tamigo.com`
+`https://api.tamigo.com`
 
 Application Services
 --------------------
